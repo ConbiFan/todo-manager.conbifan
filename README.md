@@ -11,7 +11,7 @@ ToDo Manager is a simple and effective tool for managing tasks, built using Java
 ## Installation
 Clone this project and install the dependencies.
 ```bash
-git clone https://github.com/ConbiFan/todo-manager.git
+git clone https://github.com/ConbiFan/todo-manager-conbifan.git
 cd todo-manager
 npm install
 npm start
